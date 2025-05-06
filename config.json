@@ -1,0 +1,33 @@
+{
+    "colors": {
+        "background": [
+            0,
+            0,
+            30
+        ],
+        "text": [
+            255,
+            223,
+            0
+        ],
+        "highlight": [
+            100,
+            149,
+            237
+        ],
+        "star": [
+            255,
+            255,
+            255
+        ]
+    },
+    "window": {
+        "width": 800,
+        "height": 600,
+        "title": "Virtual Planetarium - by Adrian Lesniak"
+    },
+    "font": {
+        "size": 16,
+        "name": "Arial"
+    }
+}

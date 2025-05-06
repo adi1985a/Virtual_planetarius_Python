@@ -1,0 +1,14 @@
+2025-05-07 00:57:28,898 - INFO - Calculated positions for 7 stars
+2025-05-07 00:57:36,110 - ERROR - Error in settings: cannot interpret a datetime that lacks a timezone
+
+You must either specify that your datetime is in UTC:
+
+    from skyfield.api import utc
+    d = datetime(..., tzinfo=utc)  # to build a new datetime
+    d = d.replace(tzinfo=utc)      # to fix an existing datetime
+
+Or use a timezone object like those provided by the third-party `pytz` library:
+
+    from pytz import timezone
+    eastern = timezone('US/Eastern')
+    d = eastern.localize(datetime(2014, 1, 16, 1, 32, 9))
