@@ -24,6 +24,12 @@ _A Python-based interactive desktop application that allows users to explore a s
 
 **SkyGazer: Python Interactive Virtual Planetarium**, developed by Adrian Lesniak, is a desktop application designed to bring the wonders of the night sky to your screen. This Python-based tool simulates an interactive star map, performing real-time position calculations for celestial objects. Users can explore constellations, get detailed information about stars by hovering over them, and navigate the cosmos using zoom functionalities. The application also features data export capabilities and a customizable interface through a `config.json` file.
 
+<br> 
+<p align="center">
+  <img src="screenshots/1.gif" width="90%">
+</p>
+<br>
+
 ## ✨ Key Features
 
 *   🗺️ **Interactive Star Map**:
@@ -51,9 +57,21 @@ _A Python-based interactive desktop application that allows users to explore a s
 
 ## 🖼️ Screenshots (Conceptual)
 
-**Coming soon!**
+_Screenshots of the SkyGazer application, including: the main star map view with constellations, an example of the star information pop-up on hover, the zoom functionality in action, and perhaps the settings interface if it's visual._
 
-_This section would ideally show screenshots of the SkyGazer application, including: the main star map view with constellations, an example of the star information pop-up on hover, the zoom functionality in action, and perhaps the settings interface if it's visual._
+<p align="center">
+  <img src="screenshots\1.jpg" width="300"/>
+  <img src="screenshots\2.jpg" width="300"/>
+  <img src="screenshots\3.jpg" width="300"/>
+  <img src="screenshots\4.jpg" width="300"/>
+  <img src="screenshots\5.jpg" width="300"/>
+  <img src="screenshots\6.jpg" width="300"/>
+  <img src="screenshots\7.jpg" width="300"/>
+  <img src="screenshots\8.jpg" width="300"/>
+  <img src="screenshots\9.jpg" width="300"/>
+  <img src="screenshots\10.jpg" width="300"/>
+</p>
+
 
 ## ⚙️ System Requirements & Dependencies
 
